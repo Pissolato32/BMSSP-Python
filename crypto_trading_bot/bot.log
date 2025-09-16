@@ -1,0 +1,208 @@
+2025-09-16 09:22:54,548 - ERROR - Error fetching data: 'NoneType' object has no attribute 'fetch_ohlcv'
+2025-09-16 09:27:38,005 - ERROR - Error fetching data: 'NoneType' object has no attribute 'fetch_ohlcv'
+2025-09-16 09:28:05,220 - INFO - Backtest BUY at 112263.3
+2025-09-16 09:28:05,229 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 09:28:05,230 - INFO - Backtest BUY at 115693.3
+2025-09-16 09:28:05,230 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 09:28:05,231 - INFO - Backtest BUY at 115996.3
+2025-09-16 09:28:05,231 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 09:28:05,233 - INFO - Backtest BUY at 116077.7
+2025-09-16 09:28:05,233 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 09:28:05,244 - INFO - Backtest BUY at 115342.4
+2025-09-16 09:28:18,542 - INFO - Backtest BUY at 112263.3
+2025-09-16 09:28:18,550 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 09:28:18,552 - INFO - Backtest BUY at 115693.3
+2025-09-16 09:28:18,552 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 09:28:18,552 - INFO - Backtest BUY at 115996.3
+2025-09-16 09:28:18,553 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 09:28:18,555 - INFO - Backtest BUY at 116077.7
+2025-09-16 09:28:18,555 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 09:28:18,557 - INFO - Backtest BUY at 115342.4
+2025-09-16 09:28:29,694 - INFO - Backtest BUY at 112263.3
+2025-09-16 09:28:29,702 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 09:28:29,703 - INFO - Backtest BUY at 115693.3
+2025-09-16 09:28:29,704 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 09:28:29,704 - INFO - Backtest BUY at 115996.3
+2025-09-16 09:28:29,705 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 09:28:29,707 - INFO - Backtest BUY at 116077.7
+2025-09-16 09:28:29,707 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 09:28:29,709 - INFO - Backtest BUY at 115342.4
+2025-09-16 09:31:23,915 - INFO - Backtest BUY at 112263.3
+2025-09-16 09:31:23,923 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 09:31:23,924 - INFO - Backtest BUY at 115693.3
+2025-09-16 09:31:23,924 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 09:31:23,925 - INFO - Backtest BUY at 115996.3
+2025-09-16 09:31:23,925 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 09:31:23,927 - INFO - Backtest BUY at 116077.7
+2025-09-16 09:31:23,927 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 09:31:23,929 - INFO - Backtest BUY at 115342.4
+2025-09-16 09:32:01,198 - INFO - Backtest BUY at 112263.3
+2025-09-16 09:32:01,206 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 09:32:01,207 - INFO - Backtest BUY at 115693.3
+2025-09-16 09:32:01,208 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 09:32:01,208 - INFO - Backtest BUY at 115996.3
+2025-09-16 09:32:01,208 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 09:32:01,210 - INFO - Backtest BUY at 116077.7
+2025-09-16 09:32:01,211 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 09:32:01,213 - INFO - Backtest BUY at 115342.4
+2025-09-16 09:32:23,777 - INFO - Backtest BUY at 112263.3
+2025-09-16 09:32:23,784 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 09:32:23,786 - INFO - Backtest BUY at 115693.3
+2025-09-16 09:32:23,786 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 09:32:23,786 - INFO - Backtest BUY at 115996.3
+2025-09-16 09:32:23,787 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 09:32:23,789 - INFO - Backtest BUY at 116077.7
+2025-09-16 09:32:23,789 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 09:32:23,791 - INFO - Backtest BUY at 115342.4
+2025-09-16 09:45:40,447 - INFO - Backtest BUY at 112263.3
+2025-09-16 09:45:40,455 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 09:45:40,457 - INFO - Backtest BUY at 115693.3
+2025-09-16 09:45:40,457 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 09:45:40,457 - INFO - Backtest BUY at 115996.3
+2025-09-16 09:45:40,458 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 09:45:40,460 - INFO - Backtest BUY at 116077.7
+2025-09-16 09:45:40,460 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 09:45:40,462 - INFO - Backtest BUY at 115342.4
+2025-09-16 10:53:43,012 - INFO - Backtest BUY at 112263.3
+2025-09-16 10:53:43,020 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 10:53:43,022 - INFO - Backtest BUY at 115693.3
+2025-09-16 10:53:43,022 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 10:53:43,022 - INFO - Backtest BUY at 115996.3
+2025-09-16 10:53:43,023 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 10:53:43,025 - INFO - Backtest BUY at 116077.7
+2025-09-16 10:53:43,025 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 10:53:43,027 - INFO - Backtest BUY at 115342.4
+2025-09-16 10:56:18,506 - INFO - Backtest BUY at 112263.3
+2025-09-16 10:56:18,513 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 10:56:18,515 - INFO - Backtest BUY at 115693.3
+2025-09-16 10:56:18,515 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 10:56:18,515 - INFO - Backtest BUY at 115996.3
+2025-09-16 10:56:18,516 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 10:56:18,518 - INFO - Backtest BUY at 116077.7
+2025-09-16 10:56:18,518 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 10:56:18,520 - INFO - Backtest BUY at 115342.4
+2025-09-16 10:56:20,457 - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2025-09-16 10:58:28,762 - INFO - Backtest BUY at 112263.3
+2025-09-16 10:58:28,772 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 10:58:28,773 - INFO - Backtest BUY at 115693.3
+2025-09-16 10:58:28,773 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 10:58:28,774 - INFO - Backtest BUY at 115996.3
+2025-09-16 10:58:28,774 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 10:58:28,775 - INFO - Backtest BUY at 116077.7
+2025-09-16 10:58:28,775 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 10:58:28,778 - INFO - Backtest BUY at 115342.4
+2025-09-16 10:58:30,598 - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2025-09-16 11:01:13,912 - INFO - Backtest BUY at 112263.3
+2025-09-16 11:01:13,920 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 11:01:13,922 - INFO - Backtest BUY at 115693.3
+2025-09-16 11:01:13,922 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 11:01:13,922 - INFO - Backtest BUY at 115996.3
+2025-09-16 11:01:13,923 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 11:01:13,926 - INFO - Backtest BUY at 116077.7
+2025-09-16 11:01:13,926 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 11:01:13,927 - INFO - Backtest BUY at 115342.4
+2025-09-16 11:01:35,444 - INFO - Backtest BUY at 112263.3
+2025-09-16 11:01:35,452 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 11:01:35,453 - INFO - Backtest BUY at 115693.3
+2025-09-16 11:01:35,454 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 11:01:35,454 - INFO - Backtest BUY at 115996.3
+2025-09-16 11:01:35,454 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 11:01:35,456 - INFO - Backtest BUY at 116077.7
+2025-09-16 11:01:35,456 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 11:01:35,459 - INFO - Backtest BUY at 115342.4
+2025-09-16 11:02:14,667 - INFO - Backtest BUY at 112263.3
+2025-09-16 11:02:14,675 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 11:02:14,676 - INFO - Backtest BUY at 115693.3
+2025-09-16 11:02:14,676 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 11:02:14,677 - INFO - Backtest BUY at 115996.3
+2025-09-16 11:02:14,677 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 11:02:14,679 - INFO - Backtest BUY at 116077.7
+2025-09-16 11:02:14,679 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 11:02:14,681 - INFO - Backtest BUY at 115342.4
+2025-09-16 11:03:07,635 - INFO - Backtest BUY at 112263.3
+2025-09-16 11:03:07,643 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 11:03:07,644 - INFO - Backtest BUY at 115693.3
+2025-09-16 11:03:07,644 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 11:03:07,645 - INFO - Backtest BUY at 115996.3
+2025-09-16 11:03:07,645 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 11:03:07,647 - INFO - Backtest BUY at 116077.7
+2025-09-16 11:03:07,647 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 11:03:07,649 - INFO - Backtest BUY at 115342.4
+2025-09-16 11:04:02,921 - INFO - Backtest BUY at 112263.3
+2025-09-16 11:04:02,928 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 11:04:02,930 - INFO - Backtest BUY at 115693.3
+2025-09-16 11:04:02,930 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 11:04:02,930 - INFO - Backtest BUY at 115996.3
+2025-09-16 11:04:02,931 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 11:04:02,933 - INFO - Backtest BUY at 116077.7
+2025-09-16 11:04:02,933 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 11:04:02,935 - INFO - Backtest BUY at 115342.4
+2025-09-16 11:04:46,543 - INFO - Backtest BUY at 112263.3
+2025-09-16 11:04:46,552 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 11:04:46,553 - INFO - Backtest BUY at 115693.3
+2025-09-16 11:04:46,553 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 11:04:46,554 - INFO - Backtest BUY at 115996.3
+2025-09-16 11:04:46,554 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 11:04:46,556 - INFO - Backtest BUY at 116077.7
+2025-09-16 11:04:46,556 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 11:04:46,559 - INFO - Backtest BUY at 115342.4
+2025-09-16 11:31:48,829 - INFO - Backtest BUY at 112263.3
+2025-09-16 11:31:48,837 - INFO - Backtest SELL at 115634.9, Profit: 30.03296714064161
+2025-09-16 11:31:48,838 - INFO - Backtest BUY at 115693.3
+2025-09-16 11:31:48,839 - INFO - Backtest SELL at 115746.1, Profit: 0.47008548174379045
+2025-09-16 11:31:48,839 - INFO - Backtest BUY at 115996.3
+2025-09-16 11:31:48,839 - INFO - Backtest SELL at 115590.7, Profit: -3.6033221589278757
+2025-09-16 11:31:48,841 - INFO - Backtest BUY at 116077.7
+2025-09-16 11:31:48,842 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
+2025-09-16 11:31:48,844 - INFO - Backtest BUY at 115342.4
+2025-09-16 11:31:50,551 - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2025-09-16 11:38:34,725 - INFO - Backtest BUY at 112300.0
+2025-09-16 11:38:34,736 - INFO - Backtest SELL at 115633.92, Profit: 29.68762243989313
+2025-09-16 11:38:34,738 - INFO - Backtest BUY at 115751.0
+2025-09-16 11:38:34,740 - INFO - Backtest SELL at 115348.1, Profit: -3.5840825831399035
+2025-09-16 11:38:34,742 - INFO - Backtest BUY at 116130.0
+2025-09-16 11:38:34,742 - INFO - Backtest SELL at 115806.61, Profit: -2.85741517053539
+2025-09-16 11:38:34,745 - INFO - Backtest BUY at 115307.26
+2025-09-16 11:38:36,794 - INFO - Executed BUY order: {'info': {'symbol': 'BTCUSDT', 'orderId': '1617516', 'orderListId': '-1', 'clientOrderId': 'x-TKT5PX2Fe9f5f32a8fd6f8694f32ca', 'transactTime': '1758033516633', 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '114.98762000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': '1758033516633', 'fills': [{'price': '114987.62000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': '435891'}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}, 'id': '1617516', 'clientOrderId': 'x-TKT5PX2Fe9f5f32a8fd6f8694f32ca', 'timestamp': 1758033516633, 'datetime': '2025-09-16T14:38:36.633Z', 'lastTradeTimestamp': 1758033516633, 'lastUpdateTimestamp': 1758033516633, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': 'GTC', 'postOnly': False, 'reduceOnly': None, 'side': 'buy', 'price': 114987.62, 'triggerPrice': None, 'amount': 0.001, 'cost': 114.98762, 'average': 114987.62, 'filled': 0.001, 'remaining': 0.0, 'status': 'closed', 'fee': {'currency': 'BTC', 'cost': 0.0}, 'trades': [{'info': {'price': '114987.62000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': '435891'}, 'timestamp': None, 'datetime': None, 'symbol': 'BTC/USDT', 'id': '435891', 'order': None, 'type': None, 'side': None, 'takerOrMaker': None, 'price': 114987.62, 'amount': 0.001, 'cost': 114.98762, 'fee': {'currency': 'BTC', 'cost': 0.0}, 'fees': [{'currency': 'BTC', 'cost': 0.0}]}], 'fees': [{'currency': 'BTC', 'cost': 0.0}], 'stopPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None}
+2025-09-16 11:38:52,281 - INFO - Backtest BUY at 112300.0
+2025-09-16 11:38:52,291 - INFO - Backtest SELL at 115633.92, Profit: 29.68762243989313
+2025-09-16 11:38:52,293 - INFO - Backtest BUY at 115751.0
+2025-09-16 11:38:52,294 - INFO - Backtest SELL at 115348.1, Profit: -3.5840825831399035
+2025-09-16 11:38:52,296 - INFO - Backtest BUY at 116130.0
+2025-09-16 11:38:52,297 - INFO - Backtest SELL at 115806.61, Profit: -2.85741517053539
+2025-09-16 11:38:52,300 - INFO - Backtest BUY at 115307.26
+2025-09-16 11:38:54,314 - INFO - Executed SELL order: {'info': {'symbol': 'BTCUSDT', 'orderId': '1617547', 'orderListId': '-1', 'clientOrderId': 'x-TKT5PX2Fa42b23d75c79d959bea90f', 'transactTime': '1758033534151', 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '114.96760000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': '1758033534151', 'fills': [{'price': '114967.60000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': '435902'}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}, 'id': '1617547', 'clientOrderId': 'x-TKT5PX2Fa42b23d75c79d959bea90f', 'timestamp': 1758033534151, 'datetime': '2025-09-16T14:38:54.151Z', 'lastTradeTimestamp': 1758033534151, 'lastUpdateTimestamp': 1758033534151, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': 'GTC', 'postOnly': False, 'reduceOnly': None, 'side': 'sell', 'price': 114967.6, 'triggerPrice': None, 'amount': 0.001, 'cost': 114.9676, 'average': 114967.6, 'filled': 0.001, 'remaining': 0.0, 'status': 'closed', 'fee': {'currency': 'USDT', 'cost': 0.0}, 'trades': [{'info': {'price': '114967.60000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': '435902'}, 'timestamp': None, 'datetime': None, 'symbol': 'BTC/USDT', 'id': '435902', 'order': None, 'type': None, 'side': None, 'takerOrMaker': None, 'price': 114967.6, 'amount': 0.001, 'cost': 114.9676, 'fee': {'currency': 'USDT', 'cost': 0.0}, 'fees': [{'currency': 'USDT', 'cost': 0.0}]}], 'fees': [{'currency': 'USDT', 'cost': 0.0}], 'stopPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None}
+2025-09-16 11:39:08,760 - INFO - Backtest BUY at 112300.0
+2025-09-16 11:39:08,768 - INFO - Backtest SELL at 115633.92, Profit: 29.68762243989313
+2025-09-16 11:39:08,770 - INFO - Backtest BUY at 115751.0
+2025-09-16 11:39:08,771 - INFO - Backtest SELL at 115348.1, Profit: -3.5840825831399035
+2025-09-16 11:39:08,773 - INFO - Backtest BUY at 116130.0
+2025-09-16 11:39:08,773 - INFO - Backtest SELL at 115806.61, Profit: -2.85741517053539
+2025-09-16 11:39:08,775 - INFO - Backtest BUY at 115307.26
+2025-09-16 11:39:10,808 - ERROR - Error executing trade: binance order amount should be evenly divisible by lot size {"code":-1013,"msg":"Filter failure: MARKET_LOT_SIZE"}
+2025-09-16 11:39:33,045 - INFO - Backtest BUY at 112300.0
+2025-09-16 11:39:33,054 - INFO - Backtest SELL at 115633.92, Profit: 29.68762243989313
+2025-09-16 11:39:33,056 - INFO - Backtest BUY at 115751.0
+2025-09-16 11:39:33,058 - INFO - Backtest SELL at 115348.1, Profit: -3.5840825831399035
+2025-09-16 11:39:33,060 - INFO - Backtest BUY at 116130.0
+2025-09-16 11:39:33,060 - INFO - Backtest SELL at 115806.61, Profit: -2.85741517053539
+2025-09-16 11:39:33,062 - INFO - Backtest BUY at 115307.26
+2025-09-16 11:45:47,728 - INFO - Backtest BUY at 112300.0
+2025-09-16 11:45:47,737 - INFO - Backtest SELL at 115633.92, Profit: 29.68762243989313
+2025-09-16 11:45:47,738 - INFO - Backtest BUY at 115751.0
+2025-09-16 11:45:47,739 - INFO - Backtest SELL at 115348.1, Profit: -3.5840825831399035
+2025-09-16 11:45:47,741 - INFO - Backtest BUY at 116130.0
+2025-09-16 11:45:47,742 - INFO - Backtest SELL at 115806.61, Profit: -2.85741517053539
+2025-09-16 11:45:47,744 - INFO - Backtest BUY at 115307.26
+2025-09-16 11:48:05,039 - INFO - Backtest BUY at 112300.0
+2025-09-16 11:48:05,048 - INFO - Backtest SELL at 115633.92, Profit: 29.68762243989313
+2025-09-16 11:48:05,049 - INFO - Backtest BUY at 115751.0
+2025-09-16 11:48:05,050 - INFO - Backtest SELL at 115348.1, Profit: -3.5840825831399035
+2025-09-16 11:48:05,052 - INFO - Backtest BUY at 116130.0
+2025-09-16 11:48:05,052 - INFO - Backtest SELL at 115806.61, Profit: -2.85741517053539
+2025-09-16 11:48:05,055 - INFO - Backtest BUY at 115307.26
+2025-09-16 11:52:03,700 - INFO - Backtest BUY at 112300.0
+2025-09-16 11:52:03,709 - INFO - Backtest SELL at 115633.92, Profit: 29.68762243989313
+2025-09-16 11:52:03,710 - INFO - Backtest BUY at 115751.0
+2025-09-16 11:52:03,714 - INFO - Backtest SELL at 115806.61, Profit: 0.4946905744562298
+2025-09-16 11:52:03,716 - INFO - Backtest BUY at 115307.26
