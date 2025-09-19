@@ -18,3 +18,14 @@
 2025-09-16 11:21:18,015 - INFO - Backtest SELL at 115769.5, Profit: -2.726540041100355
 2025-09-16 11:21:18,018 - INFO - Backtest BUY at 115342.4
 2025-09-16 11:21:19,769 - ERROR - Error fetching balance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+2025-09-19 16:57:03,958 - INFO - Backtest BUY at 115751.0
+2025-09-19 16:57:03,963 - INFO - Backtest SELL at 115806.61, Profit: 0.4804278148784942
+2025-09-19 16:57:03,965 - INFO - Backtest BUY at 115307.26
+2025-09-19 16:57:03,970 - INFO - Backtest SELL at 115640.76, Profit: 2.893661879367023
+2025-09-19 16:57:03,972 - INFO - Backtest BUY at 117605.16
+2025-09-19 17:02:17,733 - INFO - Backtest BUY at 115751.0
+2025-09-19 17:02:17,737 - INFO - Backtest SELL at 115806.61, Profit: 0.4804278148784942
+2025-09-19 17:02:17,740 - INFO - Backtest BUY at 115307.26
+2025-09-19 17:02:17,745 - INFO - Backtest SELL at 115640.76, Profit: 2.893661879367023
+2025-09-19 17:02:17,747 - INFO - Backtest BUY at 117605.16
+2025-09-19 17:47:12,048 - INFO - Executed BUY order: {'info': {'symbol': 'BTCUSDT', 'orderId': '2141215', 'orderListId': '-1', 'clientOrderId': 'x-TKT5PX2F2754257e37f670b79b5c3a', 'transactTime': '1758314831441', 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '115.41639000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': '1758314831441', 'fills': [{'price': '115416.39000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': '591060'}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}, 'id': '2141215', 'clientOrderId': 'x-TKT5PX2F2754257e37f670b79b5c3a', 'timestamp': 1758314831441, 'datetime': '2025-09-19T20:47:11.441Z', 'lastTradeTimestamp': 1758314831441, 'lastUpdateTimestamp': 1758314831441, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': 'GTC', 'postOnly': False, 'reduceOnly': None, 'side': 'buy', 'price': 115416.39, 'triggerPrice': None, 'amount': 0.001, 'cost': 115.41639, 'average': 115416.39, 'filled': 0.001, 'remaining': 0.0, 'status': 'closed', 'fee': {'currency': 'BTC', 'cost': 0.0}, 'trades': [{'info': {'price': '115416.39000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': '591060'}, 'timestamp': None, 'datetime': None, 'symbol': 'BTC/USDT', 'id': '591060', 'order': None, 'type': None, 'side': None, 'takerOrMaker': None, 'price': 115416.39, 'amount': 0.001, 'cost': 115.41639, 'fee': {'currency': 'BTC', 'cost': 0.0}, 'fees': [{'currency': 'BTC', 'cost': 0.0}]}], 'fees': [{'currency': 'BTC', 'cost': 0.0}], 'stopPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None}
